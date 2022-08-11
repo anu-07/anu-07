@@ -1,7 +1,7 @@
-###  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyo Nath Tripathy </h1>
+###  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anushka Mitra </h1>
 
 
-<h3 align="center">Happy Songs-Good Code-Tasty Food & Gym , THATS ME!</h3>
+<h3 align="center">Happy Songs-Good Code-Tasty Food  , THATS ME!</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on OpenSource Projects.
 
-- 📫 How to reach me soumyonath25@gmail.com.
+- 📫 How to reach me amitra651@gmail.com.
 
 - ❤️ 5 star @Hackerrank
 
@@ -27,7 +27,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
      <a href="https://www.geeksforgeeks.org/machine-learning/" target="_blank"> <img src="https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/50/000000/external-machine-learning-data-processing-inipagistudio-mixed-inipagistudio.png"/></a>
      <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/></a>
-    <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png"/> </a>
+    
     
 </p>
 
@@ -35,16 +35,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SoumyoNathTripathy/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Soumyo Nath Tripathy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyoNathTripathy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/anu-07/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anushka Mitra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anu-07&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Soumyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SoumyoNathTripathy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Soumyo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyoNathTripathy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Anushka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anu-07&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Anushka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anu-07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SoumyoNathTripathy/github-readme-activity-graph"><img alt="Soumyo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SoumyoNathTripathy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/anu-07/github-readme-activity-graph"><img alt="Anushka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anu-07&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -70,6 +70,6 @@
 ## Do Follow me and ❤️ Star the repositories if you find it useful.
 ## Thankyou
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SoumyoNathTripathy">
+    <img src="https://komarev.com/ghpvc/?username=anu-07">
 </a>
-<a href="https://github.com/SoumyoNathTripathy?tab=followers"><img src="https://img.shields.io/github/followers/SoumyoNathTripathy?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/anu-07?tab=followers"><img src="https://img.shields.io/github/followers/SoumyoNathTripathy?label=Followers&style=social" alt="GitHub Badge"></a>

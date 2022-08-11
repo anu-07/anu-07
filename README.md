@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a 2nd year UnderGrad in IEM,Kokata.
+- 🔭 I’m a 3rd year UnderGrad in IEM,Kokata.
 
 - 🌱 I’m currently learning Machine Learning , Datastructure & Data Analytics.
 
@@ -62,8 +62,8 @@
 
 
 <a href = "https://www.linkedin.com/in/anushka-mitra-4045b6202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/22Aiml"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/mr__tripathy/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/Anushka0704"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/anushka.mitra07/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 

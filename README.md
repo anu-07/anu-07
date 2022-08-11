@@ -26,7 +26,7 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
      <a href="https://www.geeksforgeeks.org/machine-learning/" target="_blank"> <img src="https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/50/000000/external-machine-learning-data-processing-inipagistudio-mixed-inipagistudio.png"/></a>
-     <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/></a>
+     
     
     
 </p>
@@ -61,7 +61,7 @@
 <p align="centre">
 
 
-<a href = "https://www.linkedin.com/in/soumyo-nath-tripathy-55b366208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/anushka-mitra-4045b6202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/22Aiml"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/mr__tripathy/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
@@ -72,4 +72,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=anu-07">
 </a>
-<a href="https://github.com/anu-07?tab=followers"><img src="https://img.shields.io/github/followers/SoumyoNathTripathy?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/anu-07?tab=followers"><img src="https://img.shields.io/github/followers/anu-07?label=Followers&style=social" alt="GitHub Badge"></a>

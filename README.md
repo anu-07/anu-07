@@ -1,3 +1,5 @@
+![WhatsApp Image 2023-03-16 at 19 47 55](https://user-images.githubusercontent.com/88025146/225699176-1b90267a-0a3b-4c05-b3fb-142426797de2.jpeg)
+
 ###  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anushka Mitra </h1>
 
 
